@@ -36,8 +36,8 @@ data is filtered to 2010-2018 movies
 Rotten Tomatoes
 rt.movie_info.tsv.gz
 rt.reviews.tsv.gz  
--movie reviews scraped from Rotten Tomatoes website
-https://www.kaggle.com/rpnuser8182/rotten-tomatoes
+-movie reviews scraped from Rotten Tomatoes  
+website https://www.kaggle.com/rpnuser8182/rotten-tomatoes
 
 
 TheMovieDB.org
