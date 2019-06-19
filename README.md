@@ -3,14 +3,14 @@
 
 FlatIron School Mod 1 Movies Project
 
-##Project members:
--Kate Hayes
--Emefa Agodo
+Project members:
+Kate Hayes
+Emefa Agodo
 
 Goal(s):
 Manipulate public source movie data to present recommendations for beginning a new original content movie streaming service.
 
-##Responsibilities:
+Responsibilities:
 
 -Clean dataset 
 -Generate metrics for comparing films
