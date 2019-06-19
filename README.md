@@ -13,13 +13,10 @@ Manipulate public source movie data to present recommendations for beginning a n
 Responsibilities:
 
 -Clean dataset 
-
 -Generate metrics for comparing films
-
 -Data cleanup, visualization, feature selection
 
 Pictures for our notebook are included in the Folder called
-
 Images for the Deck and from the Notebook
 
 All data used for this project is located in the data folder. It contains the following: 
