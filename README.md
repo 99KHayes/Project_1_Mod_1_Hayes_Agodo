@@ -33,7 +33,7 @@ imdb.title.basics.csv.gz
 imdb.title.crew.csv.gz
 imdb.title.principals.csv.gz
 imdb.title.ratings.csv.gz
-All data has come from this page https://www.imdb.com/interfaces/,  
+All data has come from this page https://www.imdb.com/interfaces/  
 data is filtered to 2010-2018 movies
 
 Rotten Tomatoes
