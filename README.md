@@ -10,9 +10,12 @@ Kate Hayes and Emefa Agodo
 Manipulate public source movie data to present recommendations for beginning a new original content movie streaming service.
 
 # Responsibilities:
-Clean dataset, generate metrics for comparing films, data cleanup, visualization, feature selection
+1. Clean dataset  
+2. Generate metrics for comparing films  
+3. Data cleanup
+4. Visualization  
+5. Feature selection
 
-Pictures for our notebook are included in the Folder called Images for the Deck and from the Notebook
 
 # Data
 All data used for this project is located in the data folder. It contains the following: 
@@ -48,6 +51,8 @@ tmdb.movies.csv.gz
 data can be accessed from: https://developers.themoviedb.org/3/discover/movie-discover  
 
 # Accessories
+Pictures for our notebook are included in the Folder called Images for the Deck and from the Notebook  
+
 First_Draft_Project_1.ipynb  
 -python notebook that contains initial observations and analysis of project
 
