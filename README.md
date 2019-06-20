@@ -17,7 +17,7 @@ Manipulate public source movie data to present recommendations for beginning a n
 5. Feature selection
 
 
-# Data
+# Data Sources:
 All data used for this project is located in the data folder. It contains the following: 
 
 Box Office Mojo Dataset  
@@ -50,9 +50,10 @@ file:
 tmdb.movies.csv.gz  
 data can be accessed from: https://developers.themoviedb.org/3/discover/movie-discover  
 
-# Accessories
+# Accessories:  
 Pictures for our notebook are included in the Folder called Images for the Deck and from the Notebook  
 
+# Presentation of Findings:  
 First_Draft_Project_1.ipynb  
 -python notebook that contains initial observations and analysis of project
 
