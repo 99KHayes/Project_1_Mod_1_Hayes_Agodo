@@ -1,19 +1,20 @@
 # Project_1_Mod_1_Hayes_Agodo
 
 
-FlatIron School Mod 1 Movies Project
+# FlatIron School Mod 1 Movies Project
 
-Project members:
+# Project members:
 Kate Hayes and Emefa Agodo
 
-Goal(s):
+# Goal:
 Manipulate public source movie data to present recommendations for beginning a new original content movie streaming service.
 
-Responsibilities:
+# Responsibilities:
 Clean dataset, generate metrics for comparing films, data cleanup, visualization, feature selection
 
 Pictures for our notebook are included in the Folder called Images for the Deck and from the Notebook
 
+# Data
 All data used for this project is located in the data folder. It contains the following: 
 
 Box Office Mojo Dataset  
@@ -46,6 +47,7 @@ file:
 tmdb.movies.csv.gz  
 data can be accessed from: https://developers.themoviedb.org/3/discover/movie-discover  
 
+# Accessories
 First_Draft_Project_1.ipynb  
 -python notebook that contains initial observations and analysis of project
 
