@@ -16,33 +16,35 @@ Pictures for our notebook are included in the Folder called Images for the Deck 
 
 All data used for this project is located in the data folder. It contains the following: 
 
-Box Office Mojo
+Box Office Mojo Dataset  
+-contains revenue information related to the movies, filtered from 2010-2018  
+file:  
 bom.movie_gross.csv.gz  
-scraped from this page https://www.boxofficemojo.com/yearly/chart/?view2=worldwide&yr=2010&p=.htm  
--contains revenue related to the movies from 2010-2018
+data can be accessed from: https://www.boxofficemojo.com/yearly/chart/?view2=worldwide&yr=2010&p=.htm  
 
-IMDB website  
--contains information about movie  
+IMDB website Dataset  
+-contains various information about movies, filtered from 2010-2018  
+files:
 imdb.name.basics.csv.gz  
 imdb.title.akas.csv.gz  
 imdb.title.basics.csv.gz  
 imdb.title.crew.csv.gz  
 imdb.title.principals.csv.gz
 imdb.title.ratings.csv.gz  
-All data has come from this page https://www.imdb.com/interfaces/  
-data is filtered to 2010-2018 movies
+data can be accessed from: https://www.imdb.com/interfaces/  
 
-Rotten Tomatoes  
+Rotten Tomatoes Dataset  
+-contains movie reviews scraped from Rotten Tomatoes website  
+files:  
 rt.movie_info.tsv.gz  
-rt.reviews.tsv.gz  
--movie reviews scraped from Rotten Tomatoes  
-website https://www.kaggle.com/rpnuser8182/rotten-tomatoes
+rt.reviews.tsv.gz   
+data can be accessed from: https://www.kaggle.com/rpnuser8182/rotten-tomatoes
 
-
-TheMovieDB.org  
-tmdb.movies.csv.gz
-all data comes from https://developers.themoviedb.org/3/discover/movie-discover  
--data is filtered to 2010-2018 movies
+TheMovieDB.org Dataset  
+-contains movie data, filtered from 2010-2018  
+file:  
+tmdb.movies.csv.gz  
+data can be accessed from: https://developers.themoviedb.org/3/discover/movie-discover  
 
 First_Draft_Project_1.ipynb  
 -python notebook that contains initial observations and analysis of project
