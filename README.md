@@ -24,7 +24,7 @@ data can be accessed from: https://www.boxofficemojo.com/yearly/chart/?view2=wor
 
 IMDB website Dataset  
 -contains various information about movies, filtered from 2010-2018  
-files:
+files:  
 imdb.name.basics.csv.gz  
 imdb.title.akas.csv.gz  
 imdb.title.basics.csv.gz  
